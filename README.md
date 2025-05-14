@@ -1,4 +1,4 @@
-__KING-PRO__
+__KRIS-PRO__
 
 __PAID TOOLS__
 
@@ -11,7 +11,7 @@ __FILE=RANDOM=PUBLIC__
 
 `rm -rf KING-PRO `
 
-`git clone --depth=1 https://github.com/FB-KING/KING-PRO`
+`git clone --depth=1 https://github.com/kenrupogisalahat/KING-PRO`
 
 `cd KING-PRO`
 
